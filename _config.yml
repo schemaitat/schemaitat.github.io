@@ -1,6 +1,6 @@
 # main text of home
 name: André Schemaitat
-bio: Having finished my dotoral studies in the field of C*-algebras, I am now very interested in Deep Learning.
+bio: Having finished my dotoral studies in the field of C*-algebras, I am now very interested in AI and Deep Learning.
 
 # twitter summary info
 description:
@@ -107,9 +107,8 @@ defaults:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
       hidden: false
-=======
-description: This webpage serves as my portfolio and personal blog.
-  It is built using jekyll.
+
+description:
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -128,7 +127,7 @@ minima:
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: andré-schemaitat-4664b2182
+    linkedin: schemaitat
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -159,7 +158,6 @@ minima:
 
 # Build settings
 theme: jekyll-theme-cayman
->>>>>>> 5a778218032019113cfd9ea2dec2b62d5583d2c3
 
 plugins:
   - jekyll-seo-tag
